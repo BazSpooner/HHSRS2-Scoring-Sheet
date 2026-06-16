@@ -6,12 +6,12 @@
 ![HHSRS2 Scoring Tool Preview](preview.png)
 
 
+## 🚀 Release 3.0 – Hyperlinks for Case Studies
 
 A macro-enabled Excel tool developed to support Environmental Health Officers in delivering **consistent, transparent hazard scoring under HHSRS2 (HHSRS 2026)**.
 
 Designed for UK housing professionals preparing for the **June 2026 HHSRS v2 rollout**.
 
-Release 3.0 with hyperlinks for Case Studies
 
 ---
 
