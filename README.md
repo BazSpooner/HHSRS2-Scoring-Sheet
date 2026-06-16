@@ -11,6 +11,8 @@ A macro-enabled Excel tool developed to support Environmental Health Officers in
 
 Designed for UK housing professionals preparing for the **June 2026 HHSRS v2 rollout**.
 
+Release 3.0 with hyperlinks for Case Studies
+
 ---
 
 ## ✅ What this tool does
@@ -89,7 +91,7 @@ This tool helps address current gaps by:
 
 ## ✅ Version
 
-**v2.2 – Final edit before Case Studies are released**
+**v3.0 with Case Study Hyperlinks**
 
 ## 📘 Instructions
 
