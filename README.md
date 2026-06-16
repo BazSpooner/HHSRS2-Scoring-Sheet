@@ -46,7 +46,7 @@ With limited official tools and case studies currently available, it provides a 
 ## 📥 How to Download
 
 
-👉 Go to the **Releases** section of this repository (next to the preview picture on PC or at the bottom of this readme on Phone) and download the latest version (currently v2.2
+👉 Go to the **Releases** section of this repository (next to the preview picture on PC or at the bottom of this readme on mobile) and download the latest version (currently v3.0)
 
 
 ⚠️ Always download from the Releases section to ensure you are using the latest version.
