@@ -90,7 +90,7 @@ This tool helps address current gaps by:
 
 ## ✅ Version
 
-**v3.0 with Case Study Hyperlinks**
+**v2.20 without Case Study Hyperlinks**
 
 ## 📘 Instructions
 
