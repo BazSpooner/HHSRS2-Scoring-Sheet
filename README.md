@@ -8,7 +8,7 @@
 
 A macro-enabled Excel tool developed to support Environmental Health Officers in delivering **consistent, transparent hazard scoring under HHSRS2 (HHSRS 2026)**.
 
-Designed for UK housing professionals preparing for the **June 2026 HHSRS v2 rollout**.
+Designed for UK housing professionals preparing for the **June 23rd 2026 HHSRS v2 rollout**.
 
 
 ---
@@ -20,6 +20,7 @@ Designed for UK housing professionals preparing for the **June 2026 HHSRS v2 rol
 - Supports the **21 consolidated housing hazards**
 - Provides a **simple, inspection-ready Excel interface**
 - Reduces the need for manual scoring calculations
+- Easy to access **hyperlinks for all hazard case studies**
 
 ---
 
@@ -44,7 +45,7 @@ With limited official tools and case studies currently available, it provides a 
 ## 📥 How to Download
 
 
-👉 Go to the **Releases** section of this repository (next to the preview picture on PC or at the bottom of this readme on mobile) and download the latest version (currently v2.2
+👉 Go to the **Releases** section of this repository (next to the preview picture on PC or at the bottom of this readme on mobile) and download the latest version (currently v3.1)
 
 
 
@@ -90,7 +91,7 @@ This tool helps address current gaps by:
 
 ## ✅ Version
 
-**v2.20 without Case Study Hyperlinks**
+**v3.1 with Case Study Hyperlinks**
 
 ## 📘 Instructions
 
