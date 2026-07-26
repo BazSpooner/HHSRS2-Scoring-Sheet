@@ -3,7 +3,7 @@
 
 ## 📸 Preview
 
-![HHSRS2 Scoring Tool Preview](preview.png)
+![HHSRS2 Scoring Tool Preview](preview2.png)
 
 
 A macro-enabled Excel tool developed to support Environmental Health Officers in delivering **consistent, transparent hazard scoring under HHSRS2 (HHSRS 2026)**.
