@@ -46,7 +46,7 @@ With limited official tools and case studies currently available, it provides a 
 ## 📥 How to Download
 
 
-👉 Go to the **Releases** section of this repository (next to the preview picture on PC or at the bottom of this readme on mobile) and download the latest version (currently v4.1)
+👉 Go to the **Releases** section of this repository (next to the preview picture on PC or at the bottom of this readme on mobile) and download the latest version (currently v4.5.2 - Macro)
 
 
 
@@ -92,7 +92,7 @@ This tool helps address current gaps by:
 
 ## ✅ Version
 
-**v4.1 with Case Study Hyperlinks and Hazard Reports**
+**v4.5.2 - Macro ***Complete rework from the ground up. New design features. Added stability. No password protection.***
 
 ## 📘 Instructions
 
