@@ -68,6 +68,12 @@ With limited official tools and case studies currently available, it provides a 
 4. Click **Apply**  
 5. Open the file and click **Enable Macros**
 
+### If Macros are blocked
+
+1.Click File > Save a copy
+2 Save the file somewhere in your Documents folder
+3. Close Excel
+4 Open the newly saved file
 ---
 
 ## ✅ Key Features
