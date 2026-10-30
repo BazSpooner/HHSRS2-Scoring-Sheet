@@ -70,10 +70,11 @@ With limited official tools and case studies currently available, it provides a 
 
 ### If Macros are blocked:
 
-1.Click File > Save a copy
-2 Save the file somewhere in your Documents folder
-3. Close Excel
-4 Open the newly saved file
+1. Click **File** > **Save a copy**  
+2. Save the file somewhere in your Documents folder 
+3. Close Excel  
+4. Open the newly saved file  
+
 ---
 
 ## ✅ Key Features
